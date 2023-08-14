@@ -10,7 +10,8 @@ public class BackendChipsApplication {
     static final Logger log = LoggerFactory.getLogger(BackendChipsApplication.class);
 
     public static void main(String[] args) {
+        log.info("Spring Starting");
         SpringApplication.run(BackendChipsApplication.class, args);
-        log.info("Starting spring");
+        log.info("Spring Started");
     }
 }
