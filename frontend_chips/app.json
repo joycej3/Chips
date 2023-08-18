@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "frontend_chips",
+    "slug": "frontend_chips",
+    "version": "0.0.1",
+    "sdkVersion": "49.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.joyce.chips"
+    }
+  }
+}

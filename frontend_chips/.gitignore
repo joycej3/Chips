@@ -1,0 +1,20 @@
+
+# Ignoring generated directories
+android/
+node_modules/
+
+# Ignoring lock files
+yarn.lock
+package-lock.json
+
+# Ignoring configuration files
+!.prettierrc.js
+!.eslintrc.js
+
+# Ignoring IDE and editor files
+.idea/
+.vscode/
+
+# Ignoring logs and build artifacts
+logs/
+build/
